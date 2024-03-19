@@ -4,11 +4,10 @@
 
 
 # -
-功能选项包括“Url编码”、“Url解码”、“Base64编码”、“Base64解码”、“Unicode编码”、“Unicode解码”、“Html编码”、“Html解码”、“MD5加密”、“文本去重”、“JSON格式化”、“Unix时间戳”。
-
-
+功能选项包括“Url编码”、“Url解码”、“Base64编码”、“Base64解码”、“Unicode编码”、“Unicode解码”、“Html编码”、“Html解码”、“MD5加密”、“文本去重”、“JSON格式化”、“Unix时间戳”、“生成二维码”。
 
 这里的“Unix时间戳”功能是指把Unix timestamp转换为 “年-月-日”的形式。
+
 
 ![alt text](ded078afe04e1cf61747877cf9baca3c.png "optional title")
 
