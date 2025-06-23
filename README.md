@@ -15,4 +15,4 @@
 ![alt text](2025-06-19_132254.png "optional title")
 
 
-##下载地址：https://github.com/sysalong/Multifunctional-text-processing-gadget/releases/download/v11/default.zip
+##下载地址：[https://github.com/sysalong/Multifunctional-text-processing-gadget/releases/download/v12/default_new.zip](https://github.com/sysalong/Multifunctional-text-processing-gadget/releases/download/v12/default_new.zip)
